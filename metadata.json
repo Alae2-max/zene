@@ -1,0 +1,6 @@
+{
+  "name": "إنستا-ريلز (InstaReels)",
+  "description": "منصة تواصل اجتماعي تفاعلية متكاملة للفيديوهات القصيرة ريلز والمنشورات مع قاعدة بيانات محلية دائمة لحفظ المنشورات والتعليقات والاعجابات وحذفها.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
